@@ -6,12 +6,12 @@
 }
 
 body {
-  background-color: rgb(245, 250, 255);
+  background-color: rgb(232, 243, 255);
 }
 
 .container-header {
   display: flex;
-  background-color: rgba(239, 239, 239, 0.911);
+  background-color: rgb(255, 255, 255);
   width: 100%;
   justify-content: center;
 }
